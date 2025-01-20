@@ -23,3 +23,8 @@ This repository covers essential topics to equip you with the skills needed to d
 Whether tackling a new ML project or improving an existing one, this guide will help you navigate trade-offs, align objectives, and future-proof your system.
 
 Ready to transform the way you design ML systems? Let’s get started! 🌟
+
+## Reference:
+[100 Days System Design for DevOps and Cloud Engineers](https://deoshankar.medium.com/100-days-system-design-for-devops-and-cloud-engineers-18af7a80bc6f)
+[How To Answer Any Machine Learning System Design Interview Question](https://towardsdatascience.com/how-to-answer-any-machine-learning-system-design-interview-question-a98656bb7ff0)
+[CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
