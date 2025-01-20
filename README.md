@@ -30,3 +30,4 @@ Ready to transform the way you design ML systems? Let’s get started! 🌟
 - [How To Answer Any Machine Learning System Design Interview Question](https://towardsdatascience.com/how-to-answer-any-machine-learning-system-design-interview-question-a98656bb7ff0)
 
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
+- [Machine Learning Systems Design](https://madewithml.com/courses/mlops/systems-design/)
